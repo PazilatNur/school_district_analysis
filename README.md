@@ -32,6 +32,7 @@ As you coud see from the above summary, the impact of the changes are too small 
 ### Thomas High School Performance changes:
 
 - Before the data removal, Thomas high school summary as the following:
+
     % Passing Math   
     93.3
     	
@@ -42,6 +43,8 @@ As you coud see from the above summary, the impact of the changes are too small 
      90.9                           	
 
 - After the data removal, homas high school summary as the following:
+
+
     % Passing Math
      93.2
      
