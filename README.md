@@ -15,6 +15,10 @@ Overall distric summary comparison is as follows:
 
 1. Original District Summary
 
+<img width="1440" alt="Original Dostrict Analysis" src="https://user-images.githubusercontent.com/79488124/125176207-a806ce00-e19f-11eb-9920-57b33b9315ca.png">
+
+
+
 
 2. New District Summary after the data removals:
 
