@@ -32,12 +32,25 @@ As you coud see from the above summary, the impact of the changes are too small 
 ### Thomas High School Performance changes:
 
 - Before the data removal, Thomas high school summary as the following:
-    % Passing Math   	% Passing Reading	  % Overall passing
-    93.3	                 97.3	                90.9	
+    % Passing Math   
+    93.3
+    	
+    % Passing Reading	
+    97.3
+    	
+    % Overall passing
+     90.9                           	
 
 - After the data removal, homas high school summary as the following:
-    % Passing Math	   % Passing Reading	  % Overall passing
-    93.2	                97.0	               90.6
+    % Passing Math
+     93.2
+     
+    % Passing Reading
+    97.0
+    
+    % Overall passing
+     90.6
+   	                	              
 
 So, removing the 9th graders from total school performance has decreased overall school performance level. Original 9th graders has definitely positivily impacted each aspects of students performance summary. 
 
