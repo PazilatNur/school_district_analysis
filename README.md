@@ -22,6 +22,9 @@ Overall distric summary comparison is as follows:
 
 2. New District Summary after the data removals:
 
+<img width="1440" alt="After the Data changes-District Analysis" src="https://user-images.githubusercontent.com/79488124/125176222-c66cc980-e19f-11eb-8706-e11a349bcced.png">
+
+
 
 ###  School Summary & Thomas High School’s performance relative to the other schools:
 
